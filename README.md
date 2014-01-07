@@ -2,7 +2,7 @@
 
 This is a slight modification of the [`RBiips`](https://gforge.inria.fr/projects/biips/) package.
 The `RBiips` package provides an interface between [`R`](http://www.r-project.org/) and [`Biips`](https://gforge.inria.fr/projects/biips/).
-The mod makes it easier to install `RBiips` in `R >= 3.0.0`.
+The mod makes it easier to install `RBiiPS` in `R >= 3.0.0`.
 
 
 ## Installation
